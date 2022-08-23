@@ -41,14 +41,14 @@ python main.py
 This will populate the directory with .pickle files that contain the attributes of the network state and .npy files that save the nodes of the cells circumference oriented counter clockwise. These files can be analyzed using a Jupyter Notebook or visualized using the repository referenced above.
 
 3. (Optional) Create pictures
-'''
+```
 python plot.py
-'''
+```
 
 4. (Optional) Create video
-'''
+```
 python make-vid.py
-'''
+```
 
 ## Citation:
 If you find the code useful, please consider citing either or both of the following (to be updated upon publication of this work):
