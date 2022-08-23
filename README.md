@@ -6,7 +6,20 @@ This repository contains code that was used in a 2D Vertex Model simulation of t
 The following code has been tested on macOS Monterey 12.5 and Ubunutu 20.04.  Earlier versions of each OS should work, but have not been tested.  Windows should be able to get the code working with a little effort. 
 
 ## Dependencies 
-Python 3.7
+For running the numerical simulations (no plotting), the .yml should install everything needed (see below).
+
+For plotting snapshots of the tissue configuration, povray is needed. 
+
+Ubuntu:
+
+macOS:
+
+For creating a seamless video from the snapshots, ffmpeg is needed. 
+
+Ubuntu:
+
+macOS:
+
 
 
 ## Author:
@@ -14,7 +27,7 @@ Python 3.7
 
 ## To use:
 __Installation__
-Use [Conda](https://docs.conda.io/en/latest/) to create the environment from the .yaml file:
+Use [Conda](https://docs.conda.io/en/latest/) to create the environment from the .yml file:
 ```
 conda env create -f vertex.yaml python=3.7
 ```
