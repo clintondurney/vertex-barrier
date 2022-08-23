@@ -8,11 +8,11 @@ The following code has been tested on macOS Monterey 12.5 and Ubunutu 20.04.  Ea
 ## Dependencies 
 For running the numerical simulations (no plotting), the .yml should install everything needed (see below).
 
-For plotting snapshots of the tissue configuration, povray is needed. 
+For plotting snapshots of the tissue configuration, [POV-Ray] (http://www.povray.org/) is needed. 
 
-Ubuntu:
+Ubuntu: https://www.povray.org/download/linux.php
 
-macOS:
+macOS: https://wiki.povray.org/content/HowTo:Install_POV
 
 For creating a seamless video from the snapshots, ffmpeg is needed. 
 
