@@ -1,7 +1,7 @@
 # vertex-barrier
 
 ## About
-This repository contains code that was used in a 2D Vertex Model simulation of tissue mechanics. This work was included in the manuscript titled, "Zasp52 strengthens whole embryo tissue integrity through supracellular actomyosin networks", Ashour et. al. To be submitted in 2022. 
+This repository contains code that was used in a 2D Vertex Model simulation of tissue mechanics. This work was included in "Zasp52 strengthens whole embryo tissue integrity through supracellular actomyosin networks", Ashour et. al. (2023) (https://doi.org/10.1242/dev.201238). 
 
 The following code has been tested on macOS Monterey 12.5 and Ubunutu 20.04.  Earlier versions of each OS should work, but have not been tested.  Windows users should be able to get the code working by mirroring the steps below for Windows.
 
